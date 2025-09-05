@@ -1,6 +1,27 @@
-# JSONCreator
-If you're a beginner and looking into stuff with creating JSON files, look no further
+JSONCreator 🚀
 
-This tool I made helps with creating JSON's easy for people who don't understand, and it's super easy to use.
+If you're a beginner or looking to create JSON files quick and easily, JSONCreator helps you make JSON files fast.
 
+How it works:
 
+Open the app.
+
+Type a name for your key.
+
+Pick what kind of value it is (Number, Text, True/False).
+
+Type in the value.
+
+Add more keys if you want.
+
+Save your JSON. Done!
+
+Example:
+
+"Money": 100
+
+"Rich": true
+
+"Name": "MoneyMan9000"
+
+Fast, simple, no confusing stuff.
