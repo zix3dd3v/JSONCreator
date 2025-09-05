@@ -12,6 +12,6 @@ Save your JSON. Done!
 
 For example here's what I put for the values 
 
-https://raw.githubusercontent.com/zix3dd3v/JSONCreator/refs/heads/main/example2.png
+![Example JSON](https://raw.githubusercontent.com/zix3dd3v/JSONCreator/refs/heads/main/example2.png)
 
 Fast, simple, no confusing stuff.
